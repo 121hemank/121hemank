@@ -9,9 +9,19 @@
 
 <br/><br/>
 
+<a href="https://hemank.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1hqv2cuu9Om-NK1dXciUAtpUlKVRij6S5/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-bb9af7?style=for-the-badge&logo=readme&logoColor=white" /></a>
+<a href="mailto:hemanktr12@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-9ece6a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=121hemank&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/121hemank?style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b27)
 ![Stars](https://img.shields.io/github/stars/121hemank?style=for-the-badge&logo=github&color=e0af68&labelColor=1a1b27)
+
+<br/>
+
+> 🟢 **Open to internships and full-time software engineering roles.** &nbsp;·&nbsp; 📧 hemanktr12@gmail.com
 
 </div>
 
@@ -52,13 +62,20 @@ and I integrate AI models where they add real value.
 
 ## ✦ Featured Projects
 
+<!--
+  SCREENSHOTS: upload three images to an "assets" folder in this repo with these exact names:
+  assets/medisync.png, assets/agrosync.png, assets/vendorcrm.png
+  (If you don't want screenshots, delete the three <img src="assets/..."> lines.)
+-->
+
 <table>
   <tr>
     <td width="33%" valign="top">
+      <img src="assets/medisync.png" alt="MediSync preview" width="100%" />
       <h3>🏥 MediSync</h3>
       <p>Healthcare appointment platform with patient, doctor and admin portals.</p>
+      <p><b>The hard part:</b> two patients booking the same slot at the same instant. Solved with transactional holds and partial unique indexes so the database rejects the second booking.</p>
       <ul>
-        <li>Race-proof slot booking (transactional holds + partial unique indexes)</li>
         <li>Gemini-generated visit summaries</li>
         <li>Google Calendar sync + retry-based email notifications</li>
       </ul>
@@ -66,29 +83,38 @@ and I integrate AI models where they add real value.
       <a href="https://tinyurl.com/Medi-sync"><img src="https://img.shields.io/badge/Live_Demo-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="33%" valign="top">
+      <img src="assets/agrosync.png" alt="AgroSync preview" width="100%" />
       <h3>🌾 AgroSync</h3>
       <p>Smart agricultural marketplace with role-based dashboards for farmers and buyers.</p>
+      <p><b>The hard part:</b> making sure users only see their own data. Enforced in the database with Row-Level Security instead of relying only on API checks.</p>
       <ul>
-        <li>15+ REST APIs with JWT auth and RBAC</li>
-        <li>22-table Postgres schema with Row-Level Security and 30 indexes</li>
+        <li>15+ REST APIs with JWT auth and RBAC, 22-table schema, 30 indexes</li>
         <li>Socket.IO real-time alerts, Chart.js analytics, PDF/CSV reports</li>
       </ul>
       <p><b>React · Express · Supabase · Socket.IO</b></p>
       <a href="https://agrosync-mora.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-9ece6a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="33%" valign="top">
+      <img src="assets/vendorcrm.png" alt="VendorCRM preview" width="100%" />
       <h3>📊 VendorCRM</h3>
       <p>CRM for vendors, customers, leads and sales pipelines with AI sentiment analysis.</p>
+      <p><b>The hard part:</b> turning raw customer feedback into a signal a vendor can act on, by running NLP models inside a real workflow.</p>
       <ul>
         <li>20+ secure REST APIs</li>
-        <li>RoBERTa + BERTweet sentiment analysis on customer feedback</li>
-        <li>Supabase auth + real-time analytics dashboard</li>
+        <li>RoBERTa + BERTweet sentiment analysis, Supabase auth, live analytics dashboard</li>
       </ul>
       <p><b>React · FastAPI · Supabase · NLP</b></p>
       <a href="https://vencrm.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-bb9af7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
 </table>
+
+<br/>
+
+## ✦ Currently Building
+
+<!-- Edit this description so it matches what fake-news-xai really does -->
+🧪 **[fake-news-xai](https://github.com/121hemank/fake-news-xai)**: a fake news detection project in Python, focused on explainable AI so a prediction comes with a reason you can inspect. *(Work in progress)*
 
 <br/>
 
@@ -142,22 +168,6 @@ and I integrate AI models where they add real value.
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=121hemank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7&icon_color=bb9af7" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=121hemank&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7" />
 
-<img src="https://streak-stats.demolab.com?user=121hemank&theme=tokyonight&hide_border=true&background=00000000&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
-
-</div>
-
-<br/>
-
-## ✦ Contribution Snake 🐍
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/121hemank/121hemank/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/121hemank/121hemank/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/121hemank/121hemank/output/github-snake-dark.svg" width="100%" />
-</picture>
-
 </div>
 
 <br/>
@@ -175,6 +185,7 @@ and I integrate AI models where they add real value.
 
 <div align="center">
 
+<a href="https://hemank.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hemank-patel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/121hemank"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://instagram.com/_hemank_12"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
