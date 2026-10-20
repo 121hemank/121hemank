@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Building+full-stack+products+end-to-end;React+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+Supabase;Turning+AI+models+into+real+features;From+idea+to+deployment+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=121hemank&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/121hemank?style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b27)
@@ -19,17 +19,34 @@
 
 ## ✦ About Me
 
-```ts
-const hemank = {
-  role: "Full-Stack Developer",
-  education: "B.Tech CSE @ VIT (2023 – 2027)",
-  focus: ["Scalable REST APIs", "Clean UI/UX", "AI-powered features"],
-  currentlyExploring: ["LLM reliability", "Database concurrency", "System design"],
-  funFact: "I like asking: what happens when 100 people click this at once?",
-};
-```
+<div align="center">
 
-I build modern web apps that blend clean design with solid engineering. From idea to deployment, I handle responsive UIs, secure APIs, database design and cloud deployment, and I integrate AI models where they add real value.
+I build modern web apps that blend clean design with solid engineering.<br/>
+From idea to deployment, I handle responsive UIs, secure APIs, database design and cloud deployment,<br/>
+and I integrate AI models where they add real value.
+
+<br/>
+
+<table>
+  <tr>
+    <td align="right"><b>🎓 Education</b></td>
+    <td align="left">B.Tech, Computer Science Engineering · VIT · 2023 – 2027</td>
+  </tr>
+  <tr>
+    <td align="right"><b>💼 Focus</b></td>
+    <td align="left">Full-stack development · REST API design · AI integration</td>
+  </tr>
+  <tr>
+    <td align="right"><b>🔭 Exploring</b></td>
+    <td align="left">LLM reliability · Database concurrency · System design</td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚡ Fun fact</b></td>
+    <td align="left">I always ask: <i>what happens when 100 people click this at once?</i></td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -79,25 +96,40 @@ I build modern web apps that blend clean design with solid engineering. From ide
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma&theme=dark" />
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,socketio&theme=dark" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&theme=dark" />
-
-**Cloud & Tools**
-
-<img src="https://skillicons.dev/icons?i=azure,aws,vercel,git,github,vscode&theme=dark" />
+<table>
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=cpp,py,js&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frameworks</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Web</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=html,css,socketio&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=azure,vercel&theme=dark" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=git,github&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI / NLP</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/RoBERTa-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/BERTweet-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -112,7 +144,19 @@ I build modern web apps that blend clean design with solid engineering. From ide
 
 <img src="https://streak-stats.demolab.com?user=121hemank&theme=tokyonight&hide_border=true&background=00000000&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=121hemank&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&color=7aa2f7&line=bb9af7&point=ffffff" width="100%" />
+</div>
+
+<br/>
+
+## ✦ Contribution Snake 🐍
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/121hemank/121hemank/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/121hemank/121hemank/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/121hemank/121hemank/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
