@@ -1,24 +1,146 @@
-# 💫 About Me:
-I specialize in building modern web applications that blend beautiful design with powerful functionality. My focus is on delivering smooth user experiences with clean, scalable code.<br><br>From idea to deployment, I take care of everything — responsive layouts, scalable architecture, and performance-driven solutions.
+<!-- ═══════════════ HEADER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hemank%20Patel&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Integration&descAlignY=58&descSize=20" width="100%" alt="header" />
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hemank Patel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hemank_12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hemank patel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@HemankPatel12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemanktr12@gmail.com) 
+<a href="https://github.com/121hemank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Building+full-stack+products+end-to-end;React+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+Supabase;Turning+AI+models+into+real+features;From+idea+to+deployment+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=121@hemank&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=121@hemank&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=121@hemank&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=121@hemank&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Profile Views](https://komarev.com/ghpvc/?username=121hemank&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/121hemank?style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b27)
+![Stars](https://img.shields.io/github/stars/121hemank?style=for-the-badge&logo=github&color=e0af68&labelColor=1a1b27)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=121@hemank&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✦ About Me
+
+```ts
+const hemank = {
+  role: "Full-Stack Developer",
+  education: "B.Tech CSE @ VIT (2023 – 2027)",
+  focus: ["Scalable REST APIs", "Clean UI/UX", "AI-powered features"],
+  currentlyExploring: ["LLM reliability", "Database concurrency", "System design"],
+  funFact: "I like asking: what happens when 100 people click this at once?",
+};
+```
+
+I build modern web apps that blend clean design with solid engineering. From idea to deployment, I handle responsive UIs, secure APIs, database design and cloud deployment, and I integrate AI models where they add real value.
+
+<br/>
+
+## ✦ Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏥 MediSync</h3>
+      <p>Healthcare appointment platform with patient, doctor and admin portals.</p>
+      <ul>
+        <li>Race-proof slot booking (transactional holds + partial unique indexes)</li>
+        <li>Gemini-generated visit summaries</li>
+        <li>Google Calendar sync + retry-based email notifications</li>
+      </ul>
+      <p><b>React · Node.js · Express · MongoDB · Gemini API</b></p>
+      <a href="https://tinyurl.com/Medi-sync"><img src="https://img.shields.io/badge/Live_Demo-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌾 AgroSync</h3>
+      <p>Smart agricultural marketplace with role-based dashboards for farmers and buyers.</p>
+      <ul>
+        <li>15+ REST APIs with JWT auth and RBAC</li>
+        <li>22-table Postgres schema with Row-Level Security and 30 indexes</li>
+        <li>Socket.IO real-time alerts, Chart.js analytics, PDF/CSV reports</li>
+      </ul>
+      <p><b>React · Express · Supabase · Socket.IO</b></p>
+      <a href="https://agrosync-mora.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-9ece6a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📊 VendorCRM</h3>
+      <p>CRM for vendors, customers, leads and sales pipelines with AI sentiment analysis.</p>
+      <ul>
+        <li>20+ secure REST APIs</li>
+        <li>RoBERTa + BERTweet sentiment analysis on customer feedback</li>
+        <li>Supabase auth + real-time analytics dashboard</li>
+      </ul>
+      <p><b>React · FastAPI · Supabase · NLP</b></p>
+      <a href="https://vencrm.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-bb9af7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## ✦ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma&theme=dark" />
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,socketio&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&theme=dark" />
+
+**Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=azure,aws,vercel,git,github,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+## ✦ GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=121hemank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7&icon_color=bb9af7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=121hemank&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7" />
+
+<img src="https://streak-stats.demolab.com?user=121hemank&theme=tokyonight&hide_border=true&background=00000000&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=121hemank&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&color=7aa2f7&line=bb9af7&point=ffffff" width="100%" />
+
+</div>
+
+<br/>
+
+## ✦ Certifications & Community
+
+- 🏅 **Microsoft Azure Data Fundamentals (DP-900)**
+- 🏅 **Modern Web Development with MERN**, FACE Prep
+- 🌱 **GSSoC'24 Extended Contributor**, open-source contributor
+- 🤝 **PR & Outreach Member**, Software Development Club (2024–2025)
+
+<br/>
+
+## ✦ Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hemank-patel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/121hemank"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://instagram.com/_hemank_12"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://x.com/HemankPatel12"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:hemanktr12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>"Anybody who comes to you and says he has a perfect language is either naïve or a salesman."</i> — Bjarne Stroustrup
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
