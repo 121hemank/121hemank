@@ -62,16 +62,9 @@ and I integrate AI models where they add real value.
 
 ## ✦ Featured Projects
 
-<!--
-  SCREENSHOTS: upload three images to an "assets" folder in this repo with these exact names:
-  assets/medisync.png, assets/agrosync.png, assets/vendorcrm.png
-  (If you don't want screenshots, delete the three <img src="assets/..."> lines.)
--->
-
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="assets/medisync.png" alt="MediSync preview" width="100%" />
       <h3>🏥 MediSync</h3>
       <p>Healthcare appointment platform with patient, doctor and admin portals.</p>
       <p><b>The hard part:</b> two patients booking the same slot at the same instant. Solved with transactional holds and partial unique indexes so the database rejects the second booking.</p>
@@ -83,7 +76,6 @@ and I integrate AI models where they add real value.
       <a href="https://tinyurl.com/Medi-sync"><img src="https://img.shields.io/badge/Live_Demo-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="33%" valign="top">
-      <img src="assets/agrosync.png" alt="AgroSync preview" width="100%" />
       <h3>🌾 AgroSync</h3>
       <p>Smart agricultural marketplace with role-based dashboards for farmers and buyers.</p>
       <p><b>The hard part:</b> making sure users only see their own data. Enforced in the database with Row-Level Security instead of relying only on API checks.</p>
@@ -95,7 +87,6 @@ and I integrate AI models where they add real value.
       <a href="https://agrosync-mora.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-9ece6a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="33%" valign="top">
-      <img src="assets/vendorcrm.png" alt="VendorCRM preview" width="100%" />
       <h3>📊 VendorCRM</h3>
       <p>CRM for vendors, customers, leads and sales pipelines with AI sentiment analysis.</p>
       <p><b>The hard part:</b> turning raw customer feedback into a signal a vendor can act on, by running NLP models inside a real workflow.</p>
